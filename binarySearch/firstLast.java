@@ -23,6 +23,7 @@ public class firstLast {
             return -1;
         } else
             return first;
+        // return lo;
 
     }
 
@@ -50,6 +51,7 @@ public class firstLast {
             return -1;
         } else
             return last;
+        // return lo - 1;
 
     }
 
